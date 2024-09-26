@@ -1,3 +1,5 @@
+## Check out our paper: https://ieeexplore.ieee.org/document/10493784
+
 # PS-1-CycleGAN
 
 ## SAR-to-RGB-CycleGAN
